@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100&family=Arvo&family=Caveat&family=Comfortaa:wght@300&family=Exo+2:ital,wght@1,100&family=Inconsolata:wght@300&family=Kanit&family=Space+Grotesk:wght@300&display=swap');
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #800020;
+    font-family: 'Archivo', sans-serif;
+font-family: 'Arvo', serif;
+font-family: 'Caveat', cursive;
+font-family: 'Comfortaa', sans-serif;
+font-family: 'Exo 2', sans-serif;
+font-family: 'Inconsolata', monospace;
+font-family: 'Kanit', sans-serif;
+font-family: 'Space Grotesk', sans-serif;
+}
+.page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 380px;
+    height: 200px;
+    background-color: #ffffff50;
+    border-radius: 10px;
+    margin-top: 10%;
+}
+.page h1{
+    font-size: 50px;
+    color: #ffffff;
+}
+.buttons button{
+    width: 90px;
+    height: 40px;
+    margin: 5px 0px 30px 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #a3042b;
+    color: #fff;
+    font-family: 'Archivo', sans-serif;
+font-family: 'Arvo', serif;
+font-family: 'Caveat', cursive;
+font-family: 'Comfortaa', sans-serif;
+font-family: 'Exo 2', sans-serif;
+font-family: 'Inconsolata', monospace;
+font-family: 'Kanit', sans-serif;
+font-family: 'Space Grotesk', sans-serif;
+font-size: 16px;
+}
